@@ -907,7 +907,7 @@ function showNotification(message) {
 function addWeatherEffects() {
   // Rain effect
   function createRain() {
-    const rainCount =800;
+    const rainCount =300;
     const rainGeo = new THREE.BufferGeometry();
     const rainPositions = [];
     
