@@ -1005,7 +1005,7 @@ function addWeatherEffects() {
 }
 
 // Call weather effects
-addWeatherEffects();
+//addWeatherEffects();
 
 
 // Add upgrade shop functionality
